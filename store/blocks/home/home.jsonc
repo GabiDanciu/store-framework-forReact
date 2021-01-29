@@ -64,7 +64,7 @@
   "slider-layout#demo-products": {
     "props": {
       "itemsPerPage": {
-        "desktop": 5,
+        "desktop": 5, 
         "tablet": 3,
         "phone": 1
       },
@@ -90,7 +90,7 @@
 
   "rich-text#question": {
     "props": {
-      "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
+      "text": "**This is an exampleeeee store built using the VTEX platform.\nWant to know more?**",
       "blockClass": "question"
     }
   },
